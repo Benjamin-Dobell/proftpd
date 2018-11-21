@@ -1,4 +1,4 @@
-proftpd-dfsg (1.3.6-3) UNRELEASED; urgency=medium
+proftpd-dfsg (1.3.6-3) unstable; urgency=medium
 
   [ Hilmar Preuße ]
   * Pick github_pr_710 from upstream:
@@ -25,7 +25,7 @@ proftpd-dfsg (1.3.6-3) UNRELEASED; urgency=medium
   [ Francesco Paolo Lovergine ]
   * Policy bumped to 4.2.1. No changes required.
 
- -- Francesco Paolo Lovergine <frankie@debian.org>  Tue, 01 May 2018 14:57:41 +0200
+ -- Francesco Paolo Lovergine <frankie@debian.org>  Wed, 21 Nov 2018 14:30:08 +0100
 
 proftpd-dfsg (1.3.6-2) unstable; urgency=medium
 
